@@ -3,7 +3,7 @@
 # Denis Seliaev
 ### Python-разработчик · Telegram-боты · Автоматизация · IoT
 
-[![Telegram](https://img.shields.io/badge/Telegram-%Fullafterstop-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fullafterstop)
+[![Telegram](https://img.shields.io/badge/Telegram-%40fullafterstop-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fullafterstop)
 [![Kwork](https://img.shields.io/badge/Kwork-Фриланс-FF6B35?style=for-the-badge&logoColor=white)](https://kwork.ru/user/seliaev)
 
 </div>
@@ -82,8 +82,8 @@
 - 🌐 **Лендинги и сайты** — быстро и чисто
 - 📊 **Скрипты для данных** — обработка и анализ
 
-**Связь:** [@SeliaevBot](https://t.me/SeliaevBot) · [Kwork](https://kwork.ru/user/seliaev)
+**Связь:** [@fullafterstop](https://t.me/fullafterstop) · [Kwork](https://kwork.ru/user/seliaev)
 
 ---
 
-<div align="center"><sub>📍 Riyadh, KSA · UTC+3</sub></div>
+<div align="center"><sub>📍 Riyadh · Moscow · UTC+3</sub></div>
