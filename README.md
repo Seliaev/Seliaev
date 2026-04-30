@@ -48,8 +48,8 @@ HTML · CSS · JS  ·  Docker · VPS · Linux · Git
 
 ### Контакты
 
-- **Telegram:** [@NellaCaffedoStop](https://t.me/NellaCaffedoStop)
+- **Telegram:** [@fullafterstop](https://t.me/fullafterstop)
 - **Портфолио:** [seliaev.github.io](https://seliaev.github.io)
-- **LinkedIn:** [linkedin.com/in/al-pravoveds](https://linkedin.com/in/al-pravoveds)
+- **LinkedIn:** [linkedin.com/in/selyaevdenis](https://www.linkedin.com/in/selyaevdenis/)
 
 📍 Эр-Рияд, КСА / Москва · UTC+3
