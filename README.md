@@ -44,6 +44,7 @@
 
 | Проект | Описание |
 |--------|----------|
+| [technician-tracker](https://github.com/Seliaev/technician-tracker) | Учёт активности техников, отчёты PDF/Excel, дашборд — Next.js + SQLite |
 | [TimeAccountingCNC](https://github.com/Seliaev/TimeAccountingCNC) | Учёт заявок на ремонт ЧПУ-станков: подача, назначение, отчёты |
 | [StatusTermoFurnace](https://github.com/Seliaev/StatusTermoFurnace) | Мониторинг электропечей в реальном времени, Telegram-уведомления |
 | [AnalyzeDataError_cnc](https://github.com/Seliaev/AnalyzeDataError_cnc) | Анализ логов ошибок станков, поиск паттернов отказов |
@@ -52,6 +53,7 @@
 
 | Проект | Описание |
 |--------|----------|
+| [technician-tracker](https://mainten.online/tracker) 🌐 | Live: трекер техников Prima Power — Next.js 15, TypeScript, Drizzle ORM |
 | [seliaev.github.io](https://seliaev.github.io) | Портфолио-сайт с демками лендингов и ботов |
 
 ---
