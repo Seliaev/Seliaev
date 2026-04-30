@@ -3,7 +3,7 @@
 # Denis Seliaev
 ### Python-разработчик · Telegram-боты · Автоматизация · IoT
 
-[![Telegram](https://img.shields.io/badge/Telegram-%40SeliaevBot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fullafterstop)
+[![Telegram](https://img.shields.io/badge/Telegram-%Fullafterstop-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fullafterstop)
 [![Kwork](https://img.shields.io/badge/Kwork-Фриланс-FF6B35?style=for-the-badge&logoColor=white)](https://kwork.ru/user/seliaev)
 
 </div>
